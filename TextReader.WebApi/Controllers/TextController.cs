@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using NLog;
 using System.Collections.Generic;
 using System.Net;
 using TextReader.Managers;
@@ -12,10 +13,12 @@ namespace TextReader.WebApi.Controllers
     {
 
         private readonly ITextReaderManager manager;
+        private readonly ILogger logger;
 
-        public TextController(ITextReaderManager manager)
+        public TextController(ITextReaderManager manager, ILogger logger)
         {
             this.manager = manager;
+            this.logger = logger;
         }
 
         // POST api/text/sort
@@ -25,6 +28,7 @@ namespace TextReader.WebApi.Controllers
         {
             if (!ModelState.IsValid)
             {
+                logger.Warn("Invalid data item", value);
                 return BadRequest(ModelState);
             }
 
@@ -33,8 +37,9 @@ namespace TextReader.WebApi.Controllers
                 var result = manager.Sort(value.Text, (Managers.SortOption)value.SortOption);
                 return Ok(result);
             }
-            catch (System.Exception)
+            catch (System.Exception excp)
             {
+                logger.Error(excp, "Unknown event occured", value);
                 return StatusCode((int)HttpStatusCode.InternalServerError);
             }
         }
@@ -46,6 +51,7 @@ namespace TextReader.WebApi.Controllers
         {
             if (!ModelState.IsValid)
             {
+                logger.Warn("Invalid data item", value);
                 return BadRequest(ModelState);
             }
 
@@ -54,8 +60,9 @@ namespace TextReader.WebApi.Controllers
                 var result = manager.GetStatistics(value.Text);
                 return Ok(result);
             }
-            catch (System.Exception)
+            catch (System.Exception excp)
             {
+                logger.Error(excp, "Unknown event occured", value);
                 return StatusCode((int)HttpStatusCode.InternalServerError);
             }
         }
