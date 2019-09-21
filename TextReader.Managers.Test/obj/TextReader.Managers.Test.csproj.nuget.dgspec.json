@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Charlie\\source\\repos\\Text Reader\\TextReader.Managers.Test\\TextReader.Managers.Test.csproj": {}
+    "D:\\Projects\\GitHub\\TextWriter\\TextReader.Managers.Test\\TextReader.Managers.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Charlie\\source\\repos\\Text Reader\\TextReader.Managers.Test\\TextReader.Managers.Test.csproj": {
+    "D:\\Projects\\GitHub\\TextWriter\\TextReader.Managers.Test\\TextReader.Managers.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Charlie\\source\\repos\\Text Reader\\TextReader.Managers.Test\\TextReader.Managers.Test.csproj",
+        "projectUniqueName": "D:\\Projects\\GitHub\\TextWriter\\TextReader.Managers.Test\\TextReader.Managers.Test.csproj",
         "projectName": "TextReader.Managers.Test",
-        "projectPath": "C:\\Users\\Charlie\\source\\repos\\Text Reader\\TextReader.Managers.Test\\TextReader.Managers.Test.csproj",
+        "projectPath": "D:\\Projects\\GitHub\\TextWriter\\TextReader.Managers.Test\\TextReader.Managers.Test.csproj",
         "packagesPath": "C:\\Users\\Charlie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Charlie\\source\\repos\\Text Reader\\TextReader.Managers.Test\\obj\\",
+        "outputPath": "D:\\Projects\\GitHub\\TextWriter\\TextReader.Managers.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -32,8 +32,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Charlie\\source\\repos\\Text Reader\\TextReader.Managers\\TextReader.Managers.csproj": {
-                "projectPath": "C:\\Users\\Charlie\\source\\repos\\Text Reader\\TextReader.Managers\\TextReader.Managers.csproj"
+              "D:\\Projects\\GitHub\\TextWriter\\TextReader.Managers\\TextReader.Managers.csproj": {
+                "projectPath": "D:\\Projects\\GitHub\\TextWriter\\TextReader.Managers\\TextReader.Managers.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "C:\\Users\\Charlie\\source\\repos\\Text Reader\\TextReader.Managers\\TextReader.Managers.csproj": {
+    "D:\\Projects\\GitHub\\TextWriter\\TextReader.Managers\\TextReader.Managers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Charlie\\source\\repos\\Text Reader\\TextReader.Managers\\TextReader.Managers.csproj",
+        "projectUniqueName": "D:\\Projects\\GitHub\\TextWriter\\TextReader.Managers\\TextReader.Managers.csproj",
         "projectName": "TextReader.Managers",
-        "projectPath": "C:\\Users\\Charlie\\source\\repos\\Text Reader\\TextReader.Managers\\TextReader.Managers.csproj",
+        "projectPath": "D:\\Projects\\GitHub\\TextWriter\\TextReader.Managers\\TextReader.Managers.csproj",
         "packagesPath": "C:\\Users\\Charlie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Charlie\\source\\repos\\Text Reader\\TextReader.Managers\\obj\\",
+        "outputPath": "D:\\Projects\\GitHub\\TextWriter\\TextReader.Managers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
