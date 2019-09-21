@@ -1,9 +1,0 @@
-C:\Users\Charlie\source\repos\Text Reader\TextReader.Managers\bin\Debug\netstandard2.0\TextReader.Managers.deps.json
-C:\Users\Charlie\source\repos\Text Reader\TextReader.Managers\bin\Debug\netstandard2.0\TextReader.Managers.dll
-C:\Users\Charlie\source\repos\Text Reader\TextReader.Managers\obj\Debug\netstandard2.0\TextReader.Managers.csproj.CoreCompileInputs.cache
-C:\Users\Charlie\source\repos\Text Reader\TextReader.Managers\obj\Debug\netstandard2.0\TextReader.Managers.AssemblyInfoInputs.cache
-C:\Users\Charlie\source\repos\Text Reader\TextReader.Managers\obj\Debug\netstandard2.0\TextReader.Managers.AssemblyInfo.cs
-C:\Users\Charlie\source\repos\Text Reader\TextReader.Managers\obj\Debug\netstandard2.0\TextReader.Managers.csprojAssemblyReference.cache
-C:\Users\Charlie\source\repos\Text Reader\TextReader.Managers\bin\Debug\netstandard2.0\TextReader.Managers.pdb
-C:\Users\Charlie\source\repos\Text Reader\TextReader.Managers\obj\Debug\netstandard2.0\TextReader.Managers.dll
-C:\Users\Charlie\source\repos\Text Reader\TextReader.Managers\obj\Debug\netstandard2.0\TextReader.Managers.pdb
