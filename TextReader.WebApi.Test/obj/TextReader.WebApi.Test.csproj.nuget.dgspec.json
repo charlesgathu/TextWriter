@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Charlie\\source\\repos\\Text Reader\\TextReader.WebApi.Test\\TextReader.WebApi.Test.csproj": {}
+    "D:\\Projects\\GitHub\\TextWriter\\TextReader.WebApi.Test\\TextReader.WebApi.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Charlie\\source\\repos\\Text Reader\\TextReader.Managers\\TextReader.Managers.csproj": {
+    "D:\\Projects\\GitHub\\TextWriter\\TextReader.Managers\\TextReader.Managers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Charlie\\source\\repos\\Text Reader\\TextReader.Managers\\TextReader.Managers.csproj",
+        "projectUniqueName": "D:\\Projects\\GitHub\\TextWriter\\TextReader.Managers\\TextReader.Managers.csproj",
         "projectName": "TextReader.Managers",
-        "projectPath": "C:\\Users\\Charlie\\source\\repos\\Text Reader\\TextReader.Managers\\TextReader.Managers.csproj",
+        "projectPath": "D:\\Projects\\GitHub\\TextWriter\\TextReader.Managers\\TextReader.Managers.csproj",
         "packagesPath": "C:\\Users\\Charlie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Charlie\\source\\repos\\Text Reader\\TextReader.Managers\\obj\\",
+        "outputPath": "D:\\Projects\\GitHub\\TextWriter\\TextReader.Managers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\Charlie\\source\\repos\\Text Reader\\TextReader.WebApi.Test\\TextReader.WebApi.Test.csproj": {
+    "D:\\Projects\\GitHub\\TextWriter\\TextReader.WebApi.Test\\TextReader.WebApi.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Charlie\\source\\repos\\Text Reader\\TextReader.WebApi.Test\\TextReader.WebApi.Test.csproj",
+        "projectUniqueName": "D:\\Projects\\GitHub\\TextWriter\\TextReader.WebApi.Test\\TextReader.WebApi.Test.csproj",
         "projectName": "TextReader.WebApi.Test",
-        "projectPath": "C:\\Users\\Charlie\\source\\repos\\Text Reader\\TextReader.WebApi.Test\\TextReader.WebApi.Test.csproj",
+        "projectPath": "D:\\Projects\\GitHub\\TextWriter\\TextReader.WebApi.Test\\TextReader.WebApi.Test.csproj",
         "packagesPath": "C:\\Users\\Charlie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Charlie\\source\\repos\\Text Reader\\TextReader.WebApi.Test\\obj\\",
+        "outputPath": "D:\\Projects\\GitHub\\TextWriter\\TextReader.WebApi.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -94,8 +94,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Charlie\\source\\repos\\Text Reader\\TextReader.WebApi\\TextReader.WebApi.csproj": {
-                "projectPath": "C:\\Users\\Charlie\\source\\repos\\Text Reader\\TextReader.WebApi\\TextReader.WebApi.csproj"
+              "D:\\Projects\\GitHub\\TextWriter\\TextReader.WebApi\\TextReader.WebApi.csproj": {
+                "projectPath": "D:\\Projects\\GitHub\\TextWriter\\TextReader.WebApi\\TextReader.WebApi.csproj"
               }
             }
           }
@@ -148,14 +148,14 @@
         }
       }
     },
-    "C:\\Users\\Charlie\\source\\repos\\Text Reader\\TextReader.WebApi\\TextReader.WebApi.csproj": {
+    "D:\\Projects\\GitHub\\TextWriter\\TextReader.WebApi\\TextReader.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Charlie\\source\\repos\\Text Reader\\TextReader.WebApi\\TextReader.WebApi.csproj",
+        "projectUniqueName": "D:\\Projects\\GitHub\\TextWriter\\TextReader.WebApi\\TextReader.WebApi.csproj",
         "projectName": "TextReader.WebApi",
-        "projectPath": "C:\\Users\\Charlie\\source\\repos\\Text Reader\\TextReader.WebApi\\TextReader.WebApi.csproj",
+        "projectPath": "D:\\Projects\\GitHub\\TextWriter\\TextReader.WebApi\\TextReader.WebApi.csproj",
         "packagesPath": "C:\\Users\\Charlie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Charlie\\source\\repos\\Text Reader\\TextReader.WebApi\\obj\\",
+        "outputPath": "D:\\Projects\\GitHub\\TextWriter\\TextReader.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -176,8 +176,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Charlie\\source\\repos\\Text Reader\\TextReader.Managers\\TextReader.Managers.csproj": {
-                "projectPath": "C:\\Users\\Charlie\\source\\repos\\Text Reader\\TextReader.Managers\\TextReader.Managers.csproj"
+              "D:\\Projects\\GitHub\\TextWriter\\TextReader.Managers\\TextReader.Managers.csproj": {
+                "projectPath": "D:\\Projects\\GitHub\\TextWriter\\TextReader.Managers\\TextReader.Managers.csproj"
               }
             }
           }

@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextReader.Managers", "TextReader.Managers\TextReader.Managers.csproj", "{B337ABE8-978C-4884-BFAE-772CB8127343}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextReader.Managers", "TextReader.Managers\TextReader.Managers.csproj", "{B337ABE8-978C-4884-BFAE-772CB8127343}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextReader.Managers.Test", "TextReader.Managers.Test\TextReader.Managers.Test.csproj", "{DCA7360E-E2A7-49EC-91CB-CB8F5E6441AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextReader.Managers.Test", "TextReader.Managers.Test\TextReader.Managers.Test.csproj", "{DCA7360E-E2A7-49EC-91CB-CB8F5E6441AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextReader.WebApi", "TextReader.WebApi\TextReader.WebApi.csproj", "{8C483CD9-FFE2-43A2-8E14-FC0CBFF12E5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextReader.WebApi", "TextReader.WebApi\TextReader.WebApi.csproj", "{8C483CD9-FFE2-43A2-8E14-FC0CBFF12E5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextReader.WebApi.Test", "TextReader.WebApi.Test\TextReader.WebApi.Test.csproj", "{95940575-FD59-4048-97C7-0D41683A4301}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextReader.WebApi.Test", "TextReader.WebApi.Test\TextReader.WebApi.Test.csproj", "{95940575-FD59-4048-97C7-0D41683A4301}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextReader.Windows", "TextReader.Windows\TextReader.Windows.csproj", "{98C89E0D-A884-4FC5-9EA0-C5EFE303E4F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{95940575-FD59-4048-97C7-0D41683A4301}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95940575-FD59-4048-97C7-0D41683A4301}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95940575-FD59-4048-97C7-0D41683A4301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98C89E0D-A884-4FC5-9EA0-C5EFE303E4F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C89E0D-A884-4FC5-9EA0-C5EFE303E4F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C89E0D-A884-4FC5-9EA0-C5EFE303E4F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C89E0D-A884-4FC5-9EA0-C5EFE303E4F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
