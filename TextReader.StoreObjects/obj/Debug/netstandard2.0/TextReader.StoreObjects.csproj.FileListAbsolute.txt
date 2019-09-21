@@ -1,0 +1,9 @@
+C:\Users\Charlie\source\repos\Text Reader\TextReader.StoreObjects\bin\Debug\netstandard2.0\TextReader.StoreObjects.deps.json
+C:\Users\Charlie\source\repos\Text Reader\TextReader.StoreObjects\bin\Debug\netstandard2.0\TextReader.StoreObjects.dll
+C:\Users\Charlie\source\repos\Text Reader\TextReader.StoreObjects\bin\Debug\netstandard2.0\TextReader.StoreObjects.pdb
+C:\Users\Charlie\source\repos\Text Reader\TextReader.StoreObjects\obj\Debug\netstandard2.0\TextReader.StoreObjects.csprojAssemblyReference.cache
+C:\Users\Charlie\source\repos\Text Reader\TextReader.StoreObjects\obj\Debug\netstandard2.0\TextReader.StoreObjects.csproj.CoreCompileInputs.cache
+C:\Users\Charlie\source\repos\Text Reader\TextReader.StoreObjects\obj\Debug\netstandard2.0\TextReader.StoreObjects.AssemblyInfoInputs.cache
+C:\Users\Charlie\source\repos\Text Reader\TextReader.StoreObjects\obj\Debug\netstandard2.0\TextReader.StoreObjects.AssemblyInfo.cs
+C:\Users\Charlie\source\repos\Text Reader\TextReader.StoreObjects\obj\Debug\netstandard2.0\TextReader.StoreObjects.dll
+C:\Users\Charlie\source\repos\Text Reader\TextReader.StoreObjects\obj\Debug\netstandard2.0\TextReader.StoreObjects.pdb

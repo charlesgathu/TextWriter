@@ -1,0 +1,17 @@
+C:\Users\Charlie\source\repos\Text Reader\TextReader.Managers.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Charlie\source\repos\Text Reader\TextReader.Managers.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Charlie\source\repos\Text Reader\TextReader.Managers.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Charlie\source\repos\Text Reader\TextReader.Managers.Test\bin\Debug\netcoreapp2.2\TextReader.Managers.Test.deps.json
+C:\Users\Charlie\source\repos\Text Reader\TextReader.Managers.Test\bin\Debug\netcoreapp2.2\TextReader.Managers.Test.runtimeconfig.json
+C:\Users\Charlie\source\repos\Text Reader\TextReader.Managers.Test\bin\Debug\netcoreapp2.2\TextReader.Managers.Test.runtimeconfig.dev.json
+C:\Users\Charlie\source\repos\Text Reader\TextReader.Managers.Test\bin\Debug\netcoreapp2.2\TextReader.Managers.Test.dll
+C:\Users\Charlie\source\repos\Text Reader\TextReader.Managers.Test\bin\Debug\netcoreapp2.2\TextReader.Managers.Test.pdb
+C:\Users\Charlie\source\repos\Text Reader\TextReader.Managers.Test\obj\Debug\netcoreapp2.2\TextReader.Managers.Test.csprojAssemblyReference.cache
+C:\Users\Charlie\source\repos\Text Reader\TextReader.Managers.Test\obj\Debug\netcoreapp2.2\TextReader.Managers.Test.csproj.CoreCompileInputs.cache
+C:\Users\Charlie\source\repos\Text Reader\TextReader.Managers.Test\obj\Debug\netcoreapp2.2\TextReader.Managers.Test.AssemblyInfoInputs.cache
+C:\Users\Charlie\source\repos\Text Reader\TextReader.Managers.Test\obj\Debug\netcoreapp2.2\TextReader.Managers.Test.AssemblyInfo.cs
+C:\Users\Charlie\source\repos\Text Reader\TextReader.Managers.Test\obj\Debug\netcoreapp2.2\TextReader.Managers.Test.dll
+C:\Users\Charlie\source\repos\Text Reader\TextReader.Managers.Test\obj\Debug\netcoreapp2.2\TextReader.Managers.Test.pdb
+C:\Users\Charlie\source\repos\Text Reader\TextReader.Managers.Test\bin\Debug\netcoreapp2.2\TextReader.Managers.dll
+C:\Users\Charlie\source\repos\Text Reader\TextReader.Managers.Test\bin\Debug\netcoreapp2.2\TextReader.Managers.pdb
+C:\Users\Charlie\source\repos\Text Reader\TextReader.Managers.Test\obj\Debug\netcoreapp2.2\TextReader.Managers.Test.csproj.CopyComplete
