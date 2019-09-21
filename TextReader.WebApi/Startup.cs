@@ -8,8 +8,9 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Logging;
+//using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using NLog;
 using TextReader.Managers;
 
 namespace TextReader.WebApi
@@ -29,6 +30,7 @@ namespace TextReader.WebApi
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddScoped<ITextReaderManager, TextReaderManager>();
             services.AddScoped<IWordCalculator, WordCalculator>();
+            services.AddTransient<ILogger, Logger>((service) => LogManager.GetLogger("allfile"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

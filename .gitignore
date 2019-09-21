@@ -1,0 +1,16 @@
+
+/.vs
+/TextWriter.Windows/bin
+/TextWriter.Windows/obj
+# /TextReader.Windows/obj/Debug
+/TextReader.Managers.Test/bin/
+/TextReader.Managers.Test/obj/
+/TextReader.WebApi/bin/
+/TextReader.WebApi/obj/
+/TextReader.WebApi.Test/bin/
+/TextReader.WebApi.Test/obj/
+/packages/
+/TextReader.Windows/bin/
+/TextReader.Managers/bin/
+/TextReader.Managers/obj/
+/TextReader.Windows/obj/Debug
