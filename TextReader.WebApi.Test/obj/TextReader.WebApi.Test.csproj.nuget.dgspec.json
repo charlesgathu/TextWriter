@@ -131,6 +131,10 @@
               "version": "[2.2.0, )",
               "autoReferenced": true
             },
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[1.5.4, )"
+            },
             "autofac": {
               "target": "Package",
               "version": "[4.9.4, )"
@@ -215,6 +219,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[2.2.3, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.8.5, )"
             }
           },
           "imports": [
